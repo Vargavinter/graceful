@@ -24,6 +24,8 @@ img.avatar {
   background: rgba(var(--gf-header-bg-rgb), 0.93);
   box-shadow: 0 3px 3px rgba(100, 100, 100, 0.13);
   border: thin solid;
+  border-top-style: none;
+  border-top-width: none;
   .panel {
     padding: 6px 0 0 0;
     flex: 0 0 auto;
