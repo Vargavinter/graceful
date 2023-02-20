@@ -69,7 +69,7 @@ pre {
 .select-kit.dropdown-select-box .dropdown-select-box-header {
   border: 1px solid var(--gf-primary-low-or-low-mid, $primary-low);
   color: var(--primary-high, $primary-high);
-  background: grey;
+  background: transparent;
   border-radius: 4px;
 
   &:hover {
